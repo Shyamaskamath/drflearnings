@@ -1,0 +1,15 @@
+venv/
+*.pyc
+sqlparse/
+__init__.py
+db.sqlite3
+*.py[cod] 
+*$py.class 
+.cache 
+.pytest_cache/
+.mypy_cache/ 
+.coverage 
+.coverage.* 
+.cache 
+.pytest_cache/ 
+*initial.py
